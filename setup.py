@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "Kidney-Disease-Classification-using-deep-learning-"
 AUTHOR_USER_NAME = "tharunraj140"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "tharunraj9591@gmail.com"
+AUTHOR_EMAIL = "tharraj9591@gmail.com"
 
 
 setuptools.setup(
