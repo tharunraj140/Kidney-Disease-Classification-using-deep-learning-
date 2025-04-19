@@ -26,7 +26,7 @@ https://github.com/tharunraj140/Kidney-Disease-Classification-using-deep-learnin
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.12.2 -y
+conda create -n cnncls python=3.12.9 -y
 ```
 
 ```bash
